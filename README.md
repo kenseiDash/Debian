@@ -44,4 +44,4 @@ sudo apt install build-essential -y
 
 ## Startup
 
-bash start-debian
+bash start-debian.sh
