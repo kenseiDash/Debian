@@ -20,9 +20,9 @@ pkg install tar -y
 
 wget https://raw.githubusercontent.com/kenseiDash/Debian/main/debian.sh -O debian.sh
  
- chmod +x debian.sh
+ chmod +x debian
  
- bash debian.sh
+ bash debian
 
 
 ## Update
