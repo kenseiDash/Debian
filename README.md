@@ -18,7 +18,7 @@ pkg install proot -y
 
 pkg install tar -y
 
-wget https://raw.githubusercontent.com/kenseiDash/Debian/main/debian.sh -O debian.sh
+wget https://raw.githubusercontent.com/kenseiDash/Debian/main/debian -O debian
  
  chmod +x debian
  
@@ -44,4 +44,4 @@ sudo apt install build-essential -y
 
 ## Startup
 
-bash start-debian.sh
+bash start-debian
